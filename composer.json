@@ -1,0 +1,17 @@
+{
+    "name": "amani/pro",
+    "autoload": {
+        "psr-4": {
+            "Amani\\Pro\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kim",
+            "email": "kimberly.lumumba@strathmore.edu"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.10"
+    }
+}
